@@ -36,3 +36,4 @@ jobs:
           tags: |
             abhishek138/maven-resource:${{ steps.prepare.outputs.tag_name }}
             abhishek138/maven-resource:latest
+            
